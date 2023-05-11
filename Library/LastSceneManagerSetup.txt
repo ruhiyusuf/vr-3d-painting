@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/flockaroo/VanGogh/DemoScene/DemoScene.unity
+- path: Assets/DemoScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
